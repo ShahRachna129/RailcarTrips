@@ -1,0 +1,6 @@
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.csproj.AssemblyReference.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.AssemblyInfoInputs.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.AssemblyInfo.cs
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.csproj.CoreCompileInputs.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Client/obj/Debug/net7.0/RailcarTrips.Client.MvcApplicationPartsAssemblyInfo.cache

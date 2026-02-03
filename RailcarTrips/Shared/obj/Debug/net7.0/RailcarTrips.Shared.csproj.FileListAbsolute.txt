@@ -1,0 +1,12 @@
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/bin/Debug/net7.0/RailcarTrips.Shared.deps.json
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/bin/Debug/net7.0/RailcarTrips.Shared.dll
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/bin/Debug/net7.0/RailcarTrips.Shared.pdb
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.csproj.AssemblyReference.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.AssemblyInfoInputs.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.AssemblyInfo.cs
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.csproj.CoreCompileInputs.cache
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.dll
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/refint/RailcarTrips.Shared.dll
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/RailcarTrips.Shared.pdb
+/Users/rachnashah/Projects/RailcarTrips/RailcarTrips/Shared/obj/Debug/net7.0/ref/RailcarTrips.Shared.dll

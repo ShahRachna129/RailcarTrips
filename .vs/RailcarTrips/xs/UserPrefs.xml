@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D9F0D988-2597-40EA-8536-F1ADE50F8759}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RailcarTrips/Client/Pages/RailcarTrips.razor">
+    <Files>
+      <File FileName="RailcarTrips/Client/Pages/RailcarTrips.razor.cs" Line="56" Column="1" />
+      <File FileName="RailcarTrips/Client/Pages/RailcarTrips.razor" Line="11" Column="1" />
+      <File FileName="RailcarTrips.sln" Line="1" Column="1" />
+      <File FileName="RailcarTrips/Shared/TripDTO.cs" Line="16" Column="19" />
+      <File FileName="RailcarTrips/Server/Models/Trip.cs" Line="1" Column="1" />
+      <File FileName="RailcarTrips/Client/Pages/RailcarTripUI.razor" Line="3" Column="8" />
+      <File FileName="RailcarTrips/Client/Client.csproj" Line="30" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="RailcarTrips" expanded="True">
+            <Node name="Client" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="RailcarTrips.razor" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Server" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Error.cshtml" expanded="True" />
+              </Node>
+              <Node name="RailcarTripsDb" expanded="True" />
+              <Node name="RawEventDTO" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
