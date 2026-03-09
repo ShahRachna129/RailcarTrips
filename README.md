@@ -29,3 +29,6 @@ o        Event code Z (Placed) ends a trip.
  
 
 Please use your discretion for how much time to spend on this. We’re looking to understand how you would organize an appropriately sized solution for this task and considerations you’ve made, rather than a complete fully flushed out working solution. TODO comments are appropriate to show considerations you’ve made that you don’t have time to fully
+
+
+Testing by myself
